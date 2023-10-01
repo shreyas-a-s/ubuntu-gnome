@@ -6,12 +6,12 @@ Bash script to install Ubuntu server install with Gnome DE
 Execute install.sh as **normal user** from a terminal:
 
 ```bash
- git clone -b de https://github.com/shreyas-a-s/debian-gnome.git
+ git clone https://github.com/shreyas-a-s/debian-gnome.git
  cd debian-gnome/
  ./install.sh
 ```
 
 For those who would like a single-line command:
 ```bash
- git clone -b de https://github.com/shreyas-a-s/debian-gnome.git && cd debian-gnome/ && ./install.sh
+ git clone https://github.com/shreyas-a-s/debian-gnome.git && cd debian-gnome/ && ./install.sh
 ```
